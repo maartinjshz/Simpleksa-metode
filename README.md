@@ -21,5 +21,10 @@ Nav bijusi saskarsme ar citām OS, tāpēc ieteicams aplūkot:
  Tkinter modulis nāk līdzi standarta Python bibliotēkai
  
  
- 
+ ## Programmas darbība
 
+Galvenais fails ir fails ar nosaukumu: 
+```
+main.py
+```
+No šī faila tālāk tiek izsaukts otrs fails, kura mērķis ir izveidot formas datu labākai ievadei un nolasīšanai.
